@@ -1,0 +1,7 @@
+{
+  "host": "https://loogger.mockery.dev",
+  "token": "$2a$10$d27uiRC5QB..M2q1xCMK1Op4.g3LJ/G7Ky",
+  "pattern": "<b>Satis</b>: {{MSG}}",
+  "richFormat": "html",
+  "debug": false
+}
