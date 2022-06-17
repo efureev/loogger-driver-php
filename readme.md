@@ -2,6 +2,8 @@
 
 ## Description
 
+PHP driver for `Loogger` service to send notifications to `Telegram`.
+
 ## Install
 
 ```bash

@@ -6,7 +6,8 @@
   "keywords": [
     "php",
     "loogger",
-    "notification"
+    "notification",
+    "telegram"
   ],
   "authors": [
     {
