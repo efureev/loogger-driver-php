@@ -32,7 +32,7 @@ final class Config
      *
      * @var string
      */
-    private string $richFormat;
+    private string $richFormat = 'plain';
 
     /**
      * The message template that will be shown in the target.
@@ -48,7 +48,7 @@ final class Config
      * By default: `[{{SERVICE_NAME}}] {{MSG}}`
      * @var ?string
      */
-    private ?string $pattern;
+    private ?string $pattern = null;
 
     public function __construct(array $params)
     {
